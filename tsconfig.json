@@ -1,10 +1,12 @@
 {
     "compilerOptions": {
         "module": "commonjs",
-        "noImplicitAny": true,
+        "noImplicitAny": false,
         "removeComments": true,
         "preserveConstEnums": true,
-        "outFile": "app.js",
-        "sourceMap": true
+        //"outFile": "bin/app.js",
+        "sourceMap": true,
+        "watch": true,
+        "target": "es2015"
     }
 }

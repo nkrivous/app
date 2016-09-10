@@ -19,7 +19,7 @@
             },
             "console": "internalConsole",
             "sourceMaps": true,
-            "outDir": "${workspaceRoot}/bin"
+            "outDir": "${workspaceRoot}"
         },
         {
             "name": "Подключить",
